@@ -82,13 +82,13 @@ Full measure documentation: [`/docs/dax_measures.md`](./docs/dax_measures.md)
 ## 📸 Screenshots
 
 ### Sales Dashboard
-![Sales Dashboard](./screenshots/sales_dashboard.png)
+![Sales Dashboard](./sales1.png)
 
 ### Orders Dashboard
-![Orders Dashboard](./screenshots/orders_dashboard.png)
+![Orders Dashboard](./orders1.png)
 
 ### Shipping & Delivery Dashboard
-![Shipping Dashboard](./screenshots/shipping_dashboard.png)
+![Shipping Dashboard](./shipping_and_Delivery.png)
 
 ---
 
