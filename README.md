@@ -85,10 +85,10 @@ Full measure documentation: [`/docs/dax_measures.md`](./docs/dax_measures.md)
 ![Sales Dashboard](Sales1.png)
 
 ### Orders Dashboard
-![Orders Dashboard](orders1.png)
+![Orders Dashboard](Orders1.png)
 
 ### Shipping & Delivery Dashboard
-![Shipping Dashboard](shipping_and_Delivery.png)
+![Shipping Dashboard](Shipping_and_Delivery.png)
 
 ---
 
